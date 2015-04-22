@@ -1,0 +1,283 @@
+fileFormatVersion: 2
+guid: ef278386ad8a0fd45899b166a5da9f17
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: AnforaGrande
+    100002: AnforaPiccola
+    100004: Armature
+    100006: Armature.001
+    100008: Back
+    100010: Back 1
+    100012: Brace1
+    100014: Brace2
+    100016: Braciere1
+    100018: Braciere2
+    100020: Colonna
+    100022: Colonna.001
+    100024: Fingers_L
+    100026: Fingers_L 1
+    100028: Fingers_L_end
+    100030: Fingers_L_end 1
+    100032: Fingers_R
+    100034: Fingers_R 1
+    100036: Fingers_R_end
+    100038: Fingers_R_end 1
+    100040: Foot_L
+    100042: Foot_L 1
+    100044: Foot_L_end
+    100046: Foot_L_end 1
+    100048: Foot_R
+    100050: Foot_R 1
+    100052: Foot_R_end
+    100054: Foot_R_end 1
+    100056: Gradini
+    100058: Head
+    100060: Head 1
+    100062: Head_end
+    100064: Head_end 1
+    100066: Hip_L
+    100068: Hip_L 1
+    100070: Hip_R
+    100072: Hip_R 1
+    100074: LowerArm_L
+    100076: LowerArm_L 1
+    100078: LowerArm_R
+    100080: LowerArm_R 1
+    100082: LowerLeg_L
+    100084: LowerLeg_L 1
+    100086: LowerLeg_R
+    100088: LowerLeg_R 1
+    100090: Man
+    100092: Man.002
+    100094: Neck
+    100096: Neck 1
+    100098: Palazzo
+    100100: Palm_L
+    100102: Palm_L 1
+    100104: Palm_R
+    100106: Palm_R 1
+    100108: Pelvis
+    100110: Pelvis 1
+    100112: Plane
+    100114: Scale
+    100116: Scatola
+    100118: Scudo
+    100120: Shoulder_L
+    100122: Shoulder_L 1
+    100124: Shoulder_R
+    100126: Shoulder_R 1
+    100128: Tetto _tempio
+    100130: Thumb_L
+    100132: Thumb_L 1
+    100134: Thumb_L_end
+    100136: Thumb_L_end 1
+    100138: Thumb_R
+    100140: Thumb_R 1
+    100142: Thumb_R_end
+    100144: Thumb_R_end 1
+    100146: Tridente
+    100148: Trono
+    100150: //RootNode
+    100152: UpperArm_L
+    100154: UpperArm_L 1
+    100156: UpperArm_R
+    100158: UpperArm_R 1
+    100160: UpperLeg_L
+    100162: UpperLeg_L 1
+    100164: UpperLeg_R
+    100166: UpperLeg_R 1
+    400000: AnforaGrande
+    400002: AnforaPiccola
+    400004: Armature
+    400006: Armature.001
+    400008: Back
+    400010: Back 1
+    400012: Brace1
+    400014: Brace2
+    400016: Braciere1
+    400018: Braciere2
+    400020: Colonna
+    400022: Colonna.001
+    400024: Fingers_L
+    400026: Fingers_L 1
+    400028: Fingers_L_end
+    400030: Fingers_L_end 1
+    400032: Fingers_R
+    400034: Fingers_R 1
+    400036: Fingers_R_end
+    400038: Fingers_R_end 1
+    400040: Foot_L
+    400042: Foot_L 1
+    400044: Foot_L_end
+    400046: Foot_L_end 1
+    400048: Foot_R
+    400050: Foot_R 1
+    400052: Foot_R_end
+    400054: Foot_R_end 1
+    400056: Gradini
+    400058: Head
+    400060: Head 1
+    400062: Head_end
+    400064: Head_end 1
+    400066: Hip_L
+    400068: Hip_L 1
+    400070: Hip_R
+    400072: Hip_R 1
+    400074: LowerArm_L
+    400076: LowerArm_L 1
+    400078: LowerArm_R
+    400080: LowerArm_R 1
+    400082: LowerLeg_L
+    400084: LowerLeg_L 1
+    400086: LowerLeg_R
+    400088: LowerLeg_R 1
+    400090: Man
+    400092: Man.002
+    400094: Neck
+    400096: Neck 1
+    400098: Palazzo
+    400100: Palm_L
+    400102: Palm_L 1
+    400104: Palm_R
+    400106: Palm_R 1
+    400108: Pelvis
+    400110: Pelvis 1
+    400112: Plane
+    400114: Scale
+    400116: Scatola
+    400118: Scudo
+    400120: Shoulder_L
+    400122: Shoulder_L 1
+    400124: Shoulder_R
+    400126: Shoulder_R 1
+    400128: Tetto _tempio
+    400130: Thumb_L
+    400132: Thumb_L 1
+    400134: Thumb_L_end
+    400136: Thumb_L_end 1
+    400138: Thumb_R
+    400140: Thumb_R 1
+    400142: Thumb_R_end
+    400144: Thumb_R_end 1
+    400146: Tridente
+    400148: Trono
+    400150: //RootNode
+    400152: UpperArm_L
+    400154: UpperArm_L 1
+    400156: UpperArm_R
+    400158: UpperArm_R 1
+    400160: UpperLeg_L
+    400162: UpperLeg_L 1
+    400164: UpperLeg_R
+    400166: UpperLeg_R 1
+    2300000: AnforaGrande
+    2300002: AnforaPiccola
+    2300004: Brace1
+    2300006: Brace2
+    2300008: Braciere1
+    2300010: Braciere2
+    2300012: Colonna
+    2300014: Colonna.001
+    2300016: Gradini
+    2300018: Palazzo
+    2300020: Plane
+    2300022: Scale
+    2300024: Scatola
+    2300026: Scudo
+    2300028: Tetto _tempio
+    2300030: Tridente
+    2300032: Trono
+    3300000: AnforaGrande
+    3300002: AnforaPiccola
+    3300004: Brace1
+    3300006: Brace2
+    3300008: Braciere1
+    3300010: Braciere2
+    3300012: Colonna
+    3300014: Colonna.001
+    3300016: Gradini
+    3300018: Palazzo
+    3300020: Plane
+    3300022: Scale
+    3300024: Scatola
+    3300026: Scudo
+    3300028: Tetto _tempio
+    3300030: Tridente
+    3300032: Trono
+    4300000: AnforaGrande
+    4300002: AnforaPiccola
+    4300004: Brace1
+    4300006: Brace2
+    4300008: Braciere1
+    4300010: Braciere2
+    4300012: Colonna
+    4300014: Colonna.001
+    4300016: Gradini
+    4300018: Palazzo
+    4300020: Plane
+    4300022: Scale
+    4300024: Scatola
+    4300026: Scudo
+    4300028: Tetto _tempio
+    4300030: Tridente
+    4300032: Trono
+    4300034: Man
+    4300036: Man.002
+    9500000: //RootNode
+    13700000: Man
+    13700002: Man.002
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2.5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
